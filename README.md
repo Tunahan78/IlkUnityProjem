@@ -1,4 +1,4 @@
-# 🚀 Kitchen Chaos - İlk Unity Oyunum
+# 🚀 İlk Unity Oyunum
 
 Bu proje, bir yazılım geliştiricisi olarak oyun geliştirme yolculuğumun başlangıcını temsil eden, Unity ile geliştirdiğim ilk deneme oyunumdur. Proje, temel oyun motoru mekaniklerini öğrenmek amacıyla bir rehber (tutorial) takip edilerek geliştirilmiştir.
 
