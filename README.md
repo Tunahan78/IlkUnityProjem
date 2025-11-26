@@ -2,6 +2,11 @@
 
 Bu proje, bir yazılım geliştiricisi olarak oyun geliştirme yolculuğumun başlangıcını temsil eden, Unity ile geliştirdiğim ilk deneme oyunumdur. Proje, temel oyun motoru mekaniklerini öğrenmek amacıyla bir rehber (tutorial) takip edilerek geliştirilmiştir.
 
+
+https://github.com/user-attachments/assets/4bce870a-9bc8-407c-a726-edec6d3e66cb
+
+
+
 ---
 
 ## 🎯 Proje Özellikleri ve Durumu
